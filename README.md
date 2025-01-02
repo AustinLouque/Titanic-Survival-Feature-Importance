@@ -41,8 +41,11 @@ The script test.py contains all the code for data preprocessing, model training,
 ## Project Structure
 titanic-survival-prediction/
 ├── test.py               # Main script
+
 ├── requirements.txt      # Dependencies
+
 ├── README.md             # Project documentation
+
 └── .gitignore            # Ignored files for Git
 ## Features
 Fills missing values for age and embarked.
