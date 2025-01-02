@@ -40,6 +40,7 @@ The script test.py contains all the code for data preprocessing, model training,
 
 ## Project Structure
 titanic-survival-prediction/
+
 ├── test.py               # Main script
 
 ├── requirements.txt      # Dependencies
